@@ -29,4 +29,7 @@ Sl. No. Apparatus Specification Quantity
 ## Output Tabulation:
 
 ## Result:  
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/165da056-25d9-4960-b910-3e29ec8d536e" />
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/02d30bf8-4bab-4b61-8ee1-e2193596f7a1" />
+
 
